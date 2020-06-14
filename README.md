@@ -18,3 +18,8 @@ Source code for Security Tube Linux Assembly Expert Certification. Student-ID: S
 
 - Sigaction Egg Hunter in x86 assembly
 - C test program with configurable payload
+
+## Assignment 4 
+
+- Xanax encoder in python 
+- Xanax decoder in assembly
