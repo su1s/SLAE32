@@ -23,3 +23,19 @@ Source code for Security Tube Linux Assembly Expert Certification. Student-ID: S
 
 - Xanax encoder in python 
 - Xanax decoder in assembly
+
+## Assignment 5
+
+- linux/x86/read_file shellcode analysis with ndisasm
+- linux/x86/exec shellcode analysis with GDB
+- linux/x86/shell_reverse_tcp shellcode analysis with libemu
+
+## Assignment 6
+
+- chmod 777 /etc/shadow polymorphic shellcode
+- exit(0) polymorphic shellcode
+- Tiny read file (/etc/passwd) polymorphic shellcode
+
+## Assignment 7
+
+- Python AES CBC Cryptor 
